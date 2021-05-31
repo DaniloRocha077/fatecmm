@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622208864 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\cnpj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1622459028 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\github\p2_exerc 04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1622306578 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\testeexerc1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1622306588 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\testeexerc1\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1622206222 e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\testeexerc1\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1622306812 e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\testeexerc1\funcoes.h
+
+1622306588 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\github\p2_exerc 01\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
+1622306812 e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\github\p2_exerc 01\funcoes.h
+
+1622306578 source:e:\análise e desenvolvimento de sistemas\2º semestre\1 - ling. programação\codeblocks\github\p2_exerc 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+
